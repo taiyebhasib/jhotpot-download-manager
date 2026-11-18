@@ -1,6 +1,6 @@
           ঝটপট ডাউনলোড ম্যানেজার (Jhotpot Download Manager - JDM)
-                 ভার্সন: v1.2.0 (Windows 64-bit)
-            Copyright (c) 2026 MD. Taiyeb Ul Hasib. All rights reserved.
+                 
+          Copyright (c) 2026 MD. Taiyeb Ul Hasib. All rights reserved.
 
 ঝটপট ডাউনলোড ম্যানেজার (JDM) হলো উইন্ডোজের জন্য তৈরি উচ্চগতির সেগমেন্টেড মাল্টি-থ্রেডেড 
 ডাউনলোড ম্যানেজার।
